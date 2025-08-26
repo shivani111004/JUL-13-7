@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 <h1> Helloo git from shivani </h1>
 
 <h2> hellloooooooooooooooooooo </h2>
+=======
+<h1>hellooooooo</h1>
+
+
+<h2>shivani</h2>
+hhhh
+>>>>>>> 7ac324735ad395abcc922afa5cfd0c2fc685bbc8
